@@ -17,7 +17,7 @@
                 '<span class="glyphicon glyphicon-remove"></span>' +
               '<button class="btn btn-success" id="boogrid-refresh" type="button">' +
                 '<span class="glyphicon glyphicon-refresh"></span></button>' +
-              '<div class="btn-group">' +
+              '<div class="btn-group hidden-xs">' +
                 '<button class="btn btn-default btn-md dropdown-toggle" ' +
                         'id="boogrid-count-btn"' +
                         'type="button" ' +
