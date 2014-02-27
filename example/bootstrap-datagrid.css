@@ -1,0 +1,17 @@
+.boogrid panel-footer {  background-color: #ffffff; }
+.boogrid div table { cursor : pointer; }
+.boogrid table th {  text-align: center; }
+.boogrid { margin-top:10px; }
+.boogrid #boogrid-title {
+    font-size:28px;
+    font-weight:200;
+    color:#317eac;
+    margin-bottom: -4px;
+}
+.boogrid table th a { text-decoration: underline; }
+.boogrid .dropdown-menu {  min-width : 0px; }
+.boogrid ul.dropdown-menu li a { cursor : pointer; }
+.boogrid table th i {
+    margin-top:4px; 
+    margin-left:4px
+}
